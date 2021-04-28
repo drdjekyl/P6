@@ -2,9 +2,9 @@
 
 Dataset: https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
-Context/Scenario: You are a Data Scientist at the company "Marketplace", which wants to launch an e-commerce marketplace. On the marketplace, sellers offer items to buyers by posting a photo and a description.
+Context/Scenario: You are a Data Scientist at the company "Marketplace", which wants to launch an e-commerce marketplace. On the marketplace, sellers offer items to buyers by posting a photo and a description. The sellers need to manually enter products category. Some errors have been found in the website and the consumers take too many time to find the good product.
 
-Problem: The Flipkart sellers need to manually enter products category. Some errors have been found in the website and the consumers take too many time to find the good product.
+Problem: Define categories of images and description products with ML and DL
 
 Method for text description:
 1. Extraction of pertinent features
