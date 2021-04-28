@@ -1,4 +1,4 @@
-#POC - Automation of text and images classification
+# POC - Automation of text and images classification
 
 Dataset: https://www.kaggle.com/PromptCloudHQ/flipkart-products
 
